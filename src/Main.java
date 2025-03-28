@@ -27,15 +27,5 @@ public class Main {
         System.out.println(class2.toString());
         System.out.println(scienceStudents);
 
-
-
-
-
-
-
-
-
-
-
     }
 }
